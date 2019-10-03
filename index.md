@@ -4,4 +4,4 @@ Set of recipes
 
 Pizzas
 Sauces
-Spreads
+Sprea
